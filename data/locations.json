@@ -1,0 +1,11 @@
+{
+	"$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+    "data": [
+        {
+            "name": "Defeat Ultra Greed",
+            "requires": "{setRequiredGreedCounters()}",
+            "victory": true
+        }
+    ]
+}
+

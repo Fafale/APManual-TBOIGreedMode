@@ -1,0 +1,11 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+    "data": [
+        {
+            "name": "Greed Counter",
+            "category": ["Greed Counters"],
+            "progression": true,
+            "count": 34
+        }
+    ]
+}

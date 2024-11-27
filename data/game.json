@@ -1,0 +1,8 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "TboiGreedMode",
+  "creator": "Fafale",
+  "filler_item_name": "Nothing",
+  "starting_items": [],
+  "death_link": false
+}
