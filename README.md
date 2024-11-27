@@ -19,10 +19,14 @@ For each included character, you have :
 ## Items
 For each included character, you have:
 ### Progression
-- Progressive Floor x6 
-- Progressive Shop x6 
+- Progressive Floor x6
+> Unlocks next floor
+- Progressive Shop x6
+> Unlocks using the shop
 - Progressive Golden Item x5
+> Unlocks golden room's item
 - Progressive Silver Item x5
+> Unlock silver room's item
 ### Filler
 - Extra Coin x15
 
