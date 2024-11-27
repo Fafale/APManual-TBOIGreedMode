@@ -1,4 +1,4 @@
-# Manual Archipelago to The Binding of Isaac: Rebirth - Greed Mode
+# Manual Archipelago for The Binding of Isaac: Rebirth - Greed Mode
 
 ## Options
 `available_characters`: List of characters that **can** be chosen to be played with.
