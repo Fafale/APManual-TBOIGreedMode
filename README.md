@@ -2,8 +2,11 @@
 
 ## Options
 `available_characters`: List of characters that **can** be chosen to be played with.
+
 `character_amount`: Amount of characters from the above list to be **actually included**.
+
 `starting_characters`: Amount of characters to start with.
+
 `ultra_greed_kills_goal`: Amount of Ultra Greed kills (with different characters) needed to win the game.
 
 ## Locations
